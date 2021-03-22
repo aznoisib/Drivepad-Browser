@@ -123,8 +123,4 @@ Drivepad Browser is created with the intention of providing a more efficient way
 ![Blogger](https://icons.iconarchive.com/icons/designbolts/3d-social/16/Blogger-icon.png) [Blogger](https://codecy.blogspot.com/)<br/>
 ![Facebook](https://icons.iconarchive.com/icons/yootheme/social-bookmark/16/social-facebook-box-blue-icon.png) [Facebook](https://www.facebook.com/codeplugs/)<br/>
 ![whatsapp](https://icons.iconarchive.com/icons/dtafalonso/android-l/16/WhatsApp-icon.png) [WhatsApp](https://api.whatsapp.com/send?phone=6282298196885)
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-
 ---
